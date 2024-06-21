@@ -4,3 +4,4 @@ Simple Git Document2
 Simple Git Document3
 Simple Git Document4
 Simple Git Document5
+Simple Git Document6
