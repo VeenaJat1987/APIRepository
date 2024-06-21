@@ -1,0 +1,24 @@
+{
+"firstname": "Veena",
+"lastname": "Jathappa",
+"age": 37,
+"ismarried":true,
+"Hobbies":["Music", "Singling", "Gaming"],
+"Skillset":
+{
+"Programming":["Java","Python"],
+"Automation":["Selenium", "RestAssured"],
+"Devops":"jenkins"
+},
+"Address":[
+{
+"AddressType":"Home",
+"City":"Bangalore"
+},
+{
+"AddressType":"Work",
+"City":"Bangalore"
+}
+]
+
+}
